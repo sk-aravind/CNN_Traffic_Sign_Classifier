@@ -16,7 +16,7 @@
 [image8]: ./report_pics/test_wrong.png "Wrong Predictions"
 [image9]: ./report_pics/results.png "Results"
 [image10]: ./report_pics/test_datagrid.png "Test"
-[image11]: ./report_pics/cover.png "Cover"
+[image11]: ./report_pics/Cover.png "Cover"
 
 
 
